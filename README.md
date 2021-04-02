@@ -1,1 +1,3 @@
-# Week-7-Assignment
+# Week 7 Assignment
+
+ Kick start repository for assignment
